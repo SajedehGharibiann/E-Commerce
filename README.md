@@ -1,9 +1,18 @@
 # E-Commerce
-E-Commerce
+E‑Commerce App – Next.js + Node.js
 
-This is an e-commerce web application with two main features:
+An e‑commerce web application where users can log in using either a password or an OTP (one‑time password) and browse products.
 
-· Authentication – users can log in using either a password or a one‑time password (OTP).
-· Products – users can view a list of products and see details.
+## Tech Stack
 
-The frontend is built with Next.js (React framework) and the backend with Node.js + Express. The project is structured in two folders (frontend and backend) inside the same Git repository. A .gitignore file excludes node_modules/ and .env to keep secrets and dependencies out of version control.
+- Frontend – Next.js (React framework)
+- Backend – Node.js + Express.js
+- Authentication – JWT / session, OTP via email/SMS
+- Database – (add yours, e.g. MongoDB, PostgreSQL)
+
+## Features
+
+- 🔐 Login with password OR OTP
+- 📦 Product listing and detail pages
+- 📱 Responsive design (Next.js frontend)
+- 🚀 REST API built with Node.js
