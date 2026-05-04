@@ -1,0 +1,210 @@
+[{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a483"
+  },
+  "title": "Grand Summer Clearance Event!",
+  "image": "1.jpg",
+  "href": "/sales/summer-clearance",
+  "path": "/sales",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a484"
+  },
+  "title": "Discover New Electronics Weekly",
+  "image": "2.jpg",
+  "href": "/electronics/new-releases",
+  "path": "/product",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a485"
+  },
+  "title": "Fashion Trends: Spring Collection",
+  "image": "3.jpg",
+  "href": "/fashion/spring-2026",
+  "path": "/category",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a486"
+  },
+  "title": "Home Decor Delights - Limited Offer",
+  "image": "4.jpg",
+  "href": "/home-decor/special-offer",
+  "path": "/",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a487"
+  },
+  "title": "Fitness Gear: Get Ready for Action",
+  "image": "5.jpg",
+  "href": "/fitness/gear-up",
+  "path": "/product",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a488"
+  },
+  "title": "Gourmet Food & Ingredients",
+  "image": "6.jpg",
+  "href": "/food/gourmet",
+  "path": "/category",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a489"
+  },
+  "title": "Children's Books & Toys",
+  "image": "7.jpg",
+  "href": "/kids/books-toys",
+  "path": "/",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a48a"
+  },
+  "title": "Tech Gadgets You Need Now!",
+  "image": "8.jpg",
+  "href": "/tech/must-haves",
+  "path": "/product",
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a48b"
+  },
+  "title": "Outdoor Adventure Gear",
+  "image": "9.jpg",
+  "href": "/outdoors/adventure",
+  "path": "/category",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a48c"
+  },
+  "title": "Art Supplies & Creative Tools",
+  "image": "10.jpg",
+  "href": "/art/supplies",
+  "path": "/",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a48d"
+  },
+  "title": "Bestselling Novels This Month",
+  "image": "1.jpg",
+  "href": "/books/bestsellers",
+  "path": "/product",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a48e"
+  },
+  "title": "Smart Home Automation",
+  "image": "2.jpg",
+  "href": "/smart-home/automation",
+  "path": "/category",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a48f"
+  },
+  "title": "Automotive Accessories Sale",
+  "image": "3.jpg",
+  "href": "/auto/accessories-sale",
+  "path": "/",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a490"
+  },
+  "title": "Pet Supplies: Happy Pets, Happy You",
+  "image": "4.jpg",
+  "href": "/pets/supplies",
+  "path": "/product",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a491"
+  },
+  "title": "Jewelry & Watches Collection",
+  "image": "10.jpg",
+  "href": "/jewelry/collection",
+  "path": "/category",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a492"
+  },
+  "title": "Health & Wellness Products",
+  "image": "9.jpg",
+  "href": "/health/wellness",
+  "path": "/",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a493"
+  },
+  "title": "Gaming Laptops & Accessories",
+  "image": "8.jpg",
+  "href": "/gaming/laptops",
+  "path": "/product",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a494"
+  },
+  "title": "Musical Instruments Showcase",
+  "image": "7.jpg",
+  "href": "/music/instruments",
+  "path": "/category",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a495"
+  },
+  "title": "Gardening Tools & Supplies",
+  "image": "5.jpg",
+  "href": "/gardening/tools",
+  "path": "/",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a496"
+  },
+  "title": "Exclusive Deals on TVs & Audio",
+  "image": "2.jpg",
+  "href": "/electronics/tv-audio-deals",
+  "path": "/product",
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "69d219c4e2631be25a27a497"
+  },
+  "title": "Winter Clothing Warm & Stylish",
+  "image": "1.jpg",
+  "href": "/fashion/winter-wear",
+  "path": "/category",
+  "isPublished": true
+}]

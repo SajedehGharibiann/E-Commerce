@@ -1,0 +1,39 @@
+.swiper.mainSlider {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper.mainSlider .swiper-slide {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.swiper.mainSlider .swiper-slide img {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper.mainSlider .swiper-slide p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 12px 22px;
+  white-space: nowrap;
+  backdrop-filter: blur(6px);
+  font-size: 2rem;
+  color: white;
+  letter-spacing: 10px;
+  border-radius: 8px;
+}
+
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fadeIn {
+  animation: fadeIn 0.8s ease-out forwards;
+}
+

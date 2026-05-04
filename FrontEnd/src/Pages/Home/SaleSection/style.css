@@ -1,0 +1,91 @@
+.swiper.SaleSection {
+  width: 100%;
+  padding: 10px 6px 60px;
+  overflow: visible;
+}
+
+.SaleSection .swiper-slide {
+  height: auto;
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  transition: transform 0.35s ease, opacity 0.35s ease;
+}
+
+.SaleSection .swiper-slide:hover {
+  transform: translateY(-8px);
+}
+
+.SaleSection .swiper-slide > * {
+  width: 100%;
+}
+
+.SaleSection .swiper-pagination {
+  bottom: 0 !important;
+}
+
+.SaleSection .swiper-pagination-bullet {
+  width: 10px;
+  height: 10px;
+  background: rgba(255, 255, 255, 0.28);
+  opacity: 1;
+  border-radius: 999px;
+  transition: all 0.35s ease;
+}
+
+.SaleSection .swiper-pagination-bullet-active {
+  width: 30px;
+  background: linear-gradient(90deg, #ffffff, #cbd5e1);
+  box-shadow: 0 0 18px rgba(255, 255, 255, 0.35);
+}
+
+.SaleSection .swiper-button-prev,
+.SaleSection .swiper-button-next {
+  width: 52px;
+  height: 52px;
+  border-radius: 999px;
+  backdrop-filter: blur(14px);
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: white;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+  transition: all 0.35s ease;
+}
+
+.SaleSection .swiper-button-prev:hover,
+.SaleSection .swiper-button-next:hover {
+  background: rgba(255, 255, 255, 0.16);
+  transform: scale(1.08);
+}
+
+.SaleSection .swiper-button-prev::after,
+.SaleSection .swiper-button-next::after {
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.SaleSection .swiper-slide-active {
+  opacity: 1;
+}
+
+.SaleSection .swiper-slide-prev,
+.SaleSection .swiper-slide-next {
+  opacity: 0.95;
+}
+
+.SaleSection .swiper-slide-shadow-left,
+.SaleSection .swiper-slide-shadow-right {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .swiper.SaleSection {
+    padding-bottom: 50px;
+  }
+
+  .SaleSection .swiper-button-prev,
+  .SaleSection .swiper-button-next {
+    display: none;
+  }
+}
