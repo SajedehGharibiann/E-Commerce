@@ -1,12 +1,12 @@
 # E-Commerce
-E‑Commerce App – Next.js + Node.js
+E‑Commerce App – React + Node.js
 
 An e‑commerce web application where users can log in using either a password or an OTP (one‑time password) and browse products.
 
 ## Tech Stack
 
-- Frontend – Next.js (React framework)
-- Backend – Node.js + Express.js
+- Frontend – React framework
+- Backend – Node.js 
 - Authentication – JWT / session, OTP via email/SMS
 - Database – MongoDB (Mongoose ODM)
 
@@ -14,5 +14,5 @@ An e‑commerce web application where users can log in using either a password o
 
 - 🔐 Login with password OR OTP
 - 📦 Product listing and detail pages
-- 📱 Responsive design (Next.js frontend)
+- 📱 Responsive design (React frontend)
 - 🚀 REST API built with Node.js
